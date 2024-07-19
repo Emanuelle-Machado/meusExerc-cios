@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Rel\u00f3gio Elegante",
+        "price": 50.99,
+        "image": "https://ibb.co/W34P1QV"
+    },
+    {
+        "id": 2,
+        "name": "C\u00e2mera Vintage",
+        "price": 85.5,
+        "image": "https://ibb.co/W34P1QV"
+    },
+    {
+        "id": 3,
+        "name": "Fones de Ouvido",
+        "price": 35.99,
+        "image": "https://ibb.co/W34P1QV"
+    },
+    {
+        "id": 4,
+        "name": "T\u00eanis de Corrida",
+        "price": 120.0,
+        "image": "https://ibb.co/W34P1QV"
+    },
+    {
+        "id": 5,
+        "name": "Smartphone",
+        "price": 299.99,
+        "image": "https://ibb.co/W34P1QV"
+    },
+    {
+        "id": 6,
+        "name": "Livro de Aventura",
+        "price": 19.99,
+        "image": "https://ibb.co/W34P1QV"
+    }
+]
